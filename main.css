@@ -1,0 +1,13 @@
+html{
+    overflow: hidden;
+}
+.element{
+    position: absolute;
+    width: 100vw;
+    top: 30vh;
+    margin: 0 auto;
+    z-index: 1000;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+}
